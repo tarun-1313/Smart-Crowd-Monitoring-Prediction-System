@@ -1,0 +1,14 @@
+streamlit
+opencv-python-headless
+ultralytics
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+requests
+joblib
+twilio
+scikit-learn
+xgboost
+Pillow
