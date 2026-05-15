@@ -67,7 +67,7 @@ ALERT_COOLDOWN = 60
 # ---------------------------
 # LOAD MODELS
 # ---------------------------
-yolo_model = YOLO("yolov8n.pt")
+yolo_model = YOLO("yolov8n")
 
 predict_model = joblib.load(
     r"C:\Users\Admin\Downloads\Croud Mini project\Pickel file\best_xgb.pkl"
